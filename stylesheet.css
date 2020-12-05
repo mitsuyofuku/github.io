@@ -1,0 +1,254 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p
+form, input, div {
+  margin:0;
+  padding:0;
+}
+
+.container {
+  width:1400px;
+  margin:0 auto;
+}
+
+header {
+  margin:30px 0;
+}
+
+.logo {
+  text-align:center;
+}
+
+header img {
+  width:400px;
+ }
+
+ .top  img{
+   width:1400px;
+   border-radius:10px;
+    }
+
+ .top {
+   text-align:center;
+ }
+
+ .link-wrapper {
+   margin:40px 0;
+   text-align:center;
+ }
+
+ .link-wrapper link {
+   color:grey;
+   }
+
+ .link-wrapper a {
+   display:inline-block;
+   padding:0 30px;
+   font-size:17px;
+   color:rgb(105,104,104);
+   display: inline-block;
+   line-height: 50px;
+   text-decoration: none;
+   border-bottom:none;
+}
+
+.link-wrapper a:hover {
+  color:rgb(199, 111, 71);
+  border-bottom:4px solid rgb(199, 111, 71);
+}
+
+
+ .heading h3 {
+   font-weight: normal;
+   line-height:50px;
+   color:white;
+   font-size:15px;
+ }
+
+ .about {
+   padding-left:16px;
+   margin-bottom:30px;
+ }
+
+ .about p {
+   color:rgb(105,104,104);
+ }
+ .heading {
+   background-color:rgb(199, 111, 71);
+   height:50px;
+   margin-bottom: 18px;
+   border-radius:10px;
+   padding-left:16px;
+ }
+ .about-tab td, th{
+   border:1px solid rgb(105,104,104);
+   /* padding:13px 10px; */
+
+ }
+ .about-tab {
+   border-collapse: collapse;
+   margin-bottom: 20px;
+   width:1400px;
+ }
+ .about-tab th {
+  padding:14px 60px;
+  color: rgb(105,104,104);
+}
+
+ .midashi {
+   background-color: rgb(238, 235, 235);
+   text-align:left;   
+   font-weight: bold;
+   color:rgb(105, 105, 105)
+   }
+ 
+  
+
+ .about-tab td {
+   padding:14px 60px 14px 15px;
+ }
+
+
+
+ .date {
+   font-weight: bold;
+   
+ }
+
+ tr {
+   /* height:30px; */
+   color:rgb(61, 60, 60);
+ }
+
+ .tab {
+   border-collapse: separate;
+   border-spacing: 15px 10px;
+   margin-bottom:20px;
+ }
+
+ .white-heading {
+  margin-bottom: 18px;
+  border-radius:10px;
+  padding-left:16px;
+  border:1px solid rgb(167, 166, 166);
+  line-height:50px;
+  }
+
+ .white-heading h3 {
+   font-size:15px;
+   font-weight: normal;
+   color:rgb(105, 104, 104)  
+  }
+
+  .show {
+    padding-left:16px;
+    color:rgb(105, 104, 104);
+     }
+
+  .show span {
+    color:rgb(199, 111, 71);
+    font-weight:bold;
+    }
+
+    .show1 p {
+      line-height: 30px;
+    }
+
+    .show2 p {
+      line-height: 30px;
+    }
+
+    .show2 {
+      padding-bottom: 2px; 
+    }
+
+    .show3 p {
+      line-height: 15px;
+    }
+
+    .show a {
+      color:rgb(105,104,104);
+    }
+
+    .show3 {
+      padding-bottom:10px;
+    }
+
+    .show4 {
+      padding-left:16px;
+      }
+
+    .show4 a {
+      color:rgb(105,104,104);
+    }
+
+    .in-footer {
+      padding-left: 16px;
+      text-align: center;
+      margin-top:60px;
+    }
+
+    .in-footer p {
+      color:rgb(105,104,104);
+      font-size: 13px;
+      line-height: 14px;
+      }
+
+      .show2 .grey {
+        background-color: rgb(231, 230, 230);
+        color: rgb(105, 104, 104);
+        font-weight: normal;
+        padding:5px;
+      }
+
+      .show2 .usdaidai {
+        font-weight: normal;
+        color:rgb(218, 117, 3);
+      }
+
+      .pic {
+        width:280px;
+      }
+
+      .gallery-tab {
+        margin-top:20px;
+        width:100%;
+      }
+
+      .gallery-tab th{
+        border:none;
+        padding-bottom:20px;
+        padding-top:20px;
+        padding-left:16px;
+        border-bottom:1px solid rgb(150, 145, 145);
+        text-align:left;
+        padding-right:0;
+        width:320px;
+      }
+
+      .gallery-tab td {
+        padding-left:0px;
+        padding-top:20px;
+        vertical-align:top;
+        line-height: 35px;
+        border-bottom:1px solid rgb(126, 114, 114);
+      }
+
+      .daidai {
+        color:rgb(199,111,71);
+      }
+
+      .site {
+        width:400px;
+      }
+
+      .a-site {
+        color:grey;
+      }
+      
+      .about-tab .h-site {
+        width:200px;
+        padding:15px 10px 5px 10px;
+        
+        }
+      
